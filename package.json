@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"@anthropic-ai/sdk": "^0.99.0",
+		"dotenv": "^17.4.2",
+		"tsx": "^4.22.3",
+		"typescript": "^6.0.3"
+	}
+}
